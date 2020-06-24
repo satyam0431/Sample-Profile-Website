@@ -2,7 +2,7 @@ body{
   text-align: center;
   padding: 0;
   margin: 0;
-font-family: "sacramento",cursive;
+font-family: "Pangolin",cursive;
   background-color: #f7fbfc;
   }
 .entry_div{
@@ -11,15 +11,14 @@ font-family: "sacramento",cursive;
 .title{
   font-size: 150%;
   padding: 40px;
-  font-family: "Sacramento",cursive;
+  font-family: "Pangolin",cursive;
   color: #3ca59d;
 }
 .entry_div{
   font-size: 150%;
-  font-family: "Sacramento";
+  font-family: "Pangolin";
   padding: 0 0 50px 0;
 }
-
 .entry_img{
   height: 60%;
   width: 70%;
@@ -45,7 +44,7 @@ hr{
 .skills img{
   width: 300px;
   border-radius: 50%;
-  float: center;
+  float: left;
   padding: 0 20 0;
 }
 .skills p {
