@@ -44,7 +44,7 @@ hr{
 .skills img{
   width: 300px;
   border-radius: 50%;
-  float: left;
+  float: center;
   padding: 0 20 0;
 }
 .skills p {
