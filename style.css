@@ -1,0 +1,86 @@
+body{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+font-family: "Pangolin",cursive;
+  background-color: #f7fbfc;
+  }
+.entry_div{
+  background-color: #9be3de;
+}
+.title{
+  font-size: 150%;
+  padding: 40px;
+  font-family: "Pangolin",cursive;
+  color: #3ca59d;
+}
+.entry_div{
+  font-size: 150%;
+  font-family: "Pangolin";
+  padding: 0 0 50px 0;
+}
+.entry_img{
+  height: 60%;
+  width: 70%;
+}
+.intro{
+  text-align: center;
+  font-size: 200%;
+}
+.intro img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100% ;
+}
+hr{
+
+}
+.skills h1{
+  font-size: 200%;
+}
+.skills h3{
+  font-size: 150%;
+}
+.skills img{
+  width: 300px;
+  border-radius: 50%;
+  float: left;
+  padding: 0 20 0;
+}
+.skills p {
+  font-size: 150%;
+}
+.skills-2{
+  padding: 30px  100px;
+}
+.skill-2 h1{
+  font-size:150% ;
+  font-family: "Pangolin",cursive;
+  align: center;
+}
+.skills-2 img{
+  width: 300px;
+  border-radius: 50%;
+  float: right;
+  padding: 0 20 0;
+}
+.skills-2 p{
+  font-size: 150%;
+}
+#get-in-touch{
+margin: 50px 0 0;
+}
+#get-in-touch h3{
+  font-family: "Pangolin",cursive;
+  font-size: 150%;
+  padding: 40px 0 0;
+}
+#footer{
+  background:#3ca59d;
+  }
+  #footer img{
+    width: 150px;
+  }
+  #footer a{
+    padding: 0 20px 0;
+  }
