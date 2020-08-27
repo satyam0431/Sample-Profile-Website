@@ -70,6 +70,22 @@ hr{
 .skills-2 p{
   font-size: 150%;
 }
+.skill-3 img {
+  width: 300px;
+  border-radius: 50%;
+  float: left;
+  padding: 0 20 0;
+}
+.skills-3 p{
+  font-size: 150%;
+}
+.skill-3 h1{
+  font-size:150% ;
+  font-family: "Pangolin",cursive;
+  align: center;
+}
+
+
 #get-in-touch{
 margin: 50px 0 0;
 }
